@@ -15,6 +15,10 @@ var dotaPlayers = {
     Canceldota: "141690233",
     Timado: "97658618",
     henry: "205743502",
+    Zlapped: '46453929',
+    '7ckngMad': '88271237',
+    shisudotes: '318705361',
+    Rxbbitfoot: '129847169',
 }
 var bfPlayers = {
     twistydoesntmiss: 'TwistyDoesntMlSS',
