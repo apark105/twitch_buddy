@@ -54,7 +54,6 @@ var fortniteTopPlayers = {
     Svennoss: 'Svennoss',
     uwatakashi: 'Uwatakashi_',
     Fnatic_Ettnix: 'Twitch-Ettnix',
-    trymacs: "twitch trymacs",
     drnkie: "drnkie",
     FearItSelf: 'FearItSelf',
     TSM_Daequan: 'TSM_Daequan',
