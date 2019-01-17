@@ -1,13 +1,9 @@
-# c9.18_hackathon2
+# Hackathon 2 - Twitch Buddy
 
-Hackathon project involving the combination of different data sources into an application or game
+This was a 2-day Hackathon project that combined different data sources into an application or game
 
-### Requirements
-- Combine at least 4 **external** resources via AJAX requests and present their information in an application
-- Must be documented loosely on JSDOC standards
-- Must be issue-managed via meistertask 
-  - share the meistertask with daniel.paschal@learningfuze.com
-  - name your project 7.18 Team [your team number] Hackathon
+### Description 
+- In the course of 2-days, 3 other teammates and I combined at least 4 **external** resources via AJAX requests and presented their information in an application we called, Twitch Buddy. We utilized 4 APIS from different games such as FortNite, Dota2, Black OPS 4, and BattleField 1 and used a Twitch API to showcase each player's live game and their statistics.   
 
 ### Judging Criteria
 - **Appeal** : is it visually appealing / well put together
@@ -17,33 +13,9 @@ Hackathon project involving the combination of different data sources into an ap
 - **Innovative / Transformative** : Did the project do something new and exciting?  Was it bold and tried to do things that haven't been done much.  Did it combine the data sources together in a way that was more useful than either source by itself
 - **Ease of Use / Understanding** : Was it easy to use the application / game, or if it was more complex, was the application or game able to provide you with tutorials or instructions that made understanding it a breeze.
 
-### Teams
-- Team 1
-  - Vienna Tran
-  - Julian So
-  - Erin Tait
-  - Brandon Park
-  - Kyle Umbarger
-  
-- Team 2
-  - Andrew Mirshafiee
-  - Sridhar Madala
-  - Michael Esfahani
-  - Tiffany Kim
-
-- Team 3
-  - Collin Stewart
-  - Oscar Anguino
-  - Sasha Dykun
-  - Andy Park
-
-- Team 4
-  - Andrew Oautu
-  - Edmund Park
-  - Chris Kim
-  - Michael Chu
-  - Andrew Moser
-
-### Deadline: 
-- 7:00pm Wednesday, October 24th, 2018
-
+### Technologies Used:
+- HTML
+- CSS
+- Javascript
+- jQuery
+- Bootstrap 
