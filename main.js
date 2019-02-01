@@ -287,7 +287,6 @@ function getCodPlayers(player, name) {
             accuracy = "N/A"
         }
         var killstreak = stats.longestKillstreak;
-        debugger;
         gameDataCod = {
             'Player': name,
             'Wins': gameWins,
